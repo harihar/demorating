@@ -1,0 +1,22 @@
+{
+  "name": "demorating",
+  "homepage": "https://github.com/harihar/demorating",
+  "authors": [
+    "Harihar <harihar.246@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery" : "^3.1.0"
+  }
+}
