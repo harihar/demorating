@@ -41,4 +41,5 @@ demorating.iml
 .sass-cache/
 bower_components/
 css/
+build/
 
